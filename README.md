@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="50px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BhuvaneshHingal/)
+# <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/GITHey.gif" width="100px"> Bonjour! <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="100px"> [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/BhuvaneshHingal/)
 
 <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/MastHead.gif" width="100%">
 
