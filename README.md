@@ -7,12 +7,15 @@
 ## Connect with Me 🤝🏻
 
   <a href="https://www.linkedin.com/in/bhuvaneshhingal/">
-    <img align="left" alt="Bhuvanesh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Bhuvanesh" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   
   <a href="https://twitter.com/BhuvaneshHingal">
-    <img align="left" alt="Bhuvanesh" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="left" alt="Bhuvanesh" | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
+  <a href="https://dev.to/bhuvaneshhingal">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhuvanesh Hingal's DEV Profile" height="30" width="30">
+  </a>  
   
   <br>
   
