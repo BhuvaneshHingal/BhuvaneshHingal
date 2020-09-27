@@ -17,7 +17,7 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Bhuvanesh Hingal's DEV Profile" height="30" width="30">
   </a>  
   <a href="https://www.strava.com/athletes/bhuvanesh_hingal">
-  <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/Badges/strava%20logo%20mark.svg">
+  <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/Badges/strava%20logotype.svg" height="30%" width="30%">
   </a>
   
   <br>
