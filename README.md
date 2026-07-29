@@ -116,6 +116,10 @@ philosophy: "People lie. Data doesn't. Patterns always surface if you know where
 <div align="center">
   <sub>「 The quieter you become, the more you can hear. 」</sub>
 </div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhuvaneshHingal&style=flat-square&color=0078D4&labelColor=0d1117&label=views" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" width="100%" />
 </div>
